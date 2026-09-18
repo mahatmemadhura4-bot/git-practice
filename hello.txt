@@ -2,3 +2,6 @@ Hello GitHub!
 I am learning Git commands.
 
 also
+
+This is my second Git practice.
+I am learning how Git tracks changes.
