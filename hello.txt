@@ -5,3 +5,5 @@ also
 
 This is my second Git practice.
 I am learning how Git tracks changes.
+
+I am now learning how git pull works.
